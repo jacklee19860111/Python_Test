@@ -4,4 +4,7 @@ push code for learning python programming
 this is the second push for test,using simple instead of match
 This is the third modify for RADME
 1.module of urllib
-
+2 urllib.urlopen
+3 urllib.urlretrie
+##############################################
+the second leason
